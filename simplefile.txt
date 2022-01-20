@@ -1,5 +1,5 @@
 line A
 line B
-line C
+line C (diff on line 3) 
 line D
-line E
+line E (diff on line 5) 
